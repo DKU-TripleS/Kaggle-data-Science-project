@@ -1,4 +1,4 @@
-# Kaggle-data-Science-project
+# Kaggle-data-Science-Contest
 
 ## ⚡ DKU Data Science Competition 2025
 
